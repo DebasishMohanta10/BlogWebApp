@@ -3,7 +3,7 @@
 # BlogWebApp
 
 #### Complete Blog App using Django, Html, CSS and Bootstrap5
-The user can Comment out in posts after logging in in the website.User also able to serach details and tags using search bar 
+The user can Comment out in posts after logging in in the website.User also able to serach details and tags using search bar . The user can Contact via sending mail using the website Form.
 
 - Models : Post, User, Comment, Tag
 - Relationships: User can create one or more Post. Post has many Comments and Comment belongs to a User. Post has many Tags and a Tag also belongs to many Posts(Many-To-Many) and a tag created by user. 
